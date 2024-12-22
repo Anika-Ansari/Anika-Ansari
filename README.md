@@ -1,4 +1,4 @@
-![logo](https://github.com/Anika-Ansari/Anika-Ansari/blob/main/3d-banner-program-app-coding-web-page-vector-44554002.jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm Anika Ansari</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
