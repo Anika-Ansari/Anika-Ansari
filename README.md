@@ -3,10 +3,6 @@
 
 
 <img align ="right"  alt ="coding" width = "400"  src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fgirl-programmer&psig=AOvVaw02yc1OO8g_ECb01Z5tRc3E&ust=1756236710590000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjIkd3Zpo8DFQAAAAAdAAAAABAJ">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anika-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="anika-ansari" /> </p>
-
 - 🔭 Full Stack Web Developer (MERN) | Creating Modern, Fast & User-Friendly Websites
 
 - 📫 How to reach me **anikajameel786@gmail.com**
