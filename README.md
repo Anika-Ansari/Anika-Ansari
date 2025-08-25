@@ -10,8 +10,8 @@ src="https://static.vecteezy.com/system/resources/previews/012/744/791/non_2x/cu
 </p>
 
 - 🔭 Full Stack Web Developer (MERN) | Creating Modern, Fast & User-Friendly Websites
-  - 📬 Email me at: [anikajameel786@gmail.com](mailto:anikajameel786@gmail.com)
- - 📫 view my portfolio https://my-personal-portfolio-eight-gamma.vercel.app/
+- 📬 Email me at: [anikajameel786@gmail.com](mailto:anikajameel786@gmail.com)
+- 📫 view my portfolio https://my-personal-portfolio-eight-gamma.vercel.app/
    
   ### 🌐 Connect with me:
   
