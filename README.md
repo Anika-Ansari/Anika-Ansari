@@ -5,18 +5,17 @@
 </p>
 
 <p align="center">
- <img src= "https://static.vecteezy.com/system/resources/previews/012/744/791/non_2x/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg"/>
+ <img align="right" alt="coding" width="400" 
+src="https://static.vecteezy.com/system/resources/previews/012/744/791/non_2x/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg"/>
 </p>
 
 
 - 🔭 Full Stack Web Developer (MERN) | Creating Modern, Fast & User-Friendly Websites
-- 📫 How to reach me **anikajameel786@gmail.com**
+  - 📬 Email me at: [anikajameel786@gmail.com](mailto:anikajameel786@gmail.com)
  - 📫 view my portfolio https://my-personal-portfolio-eight-gamma.vercel.app/
-
-
-
-<h3 align="left w-100px"🌐>Connect with me:</h3>
-    <p>
+ - 
+  ### 🌐 Connect with me:
+    <p align="center">
       <a href="https://www.linkedin.com/in/anika-ansari-202560313/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
       </a>
@@ -28,17 +27,11 @@
       </a>
     </p>
   </div>
-
-  <!-- Right side image -->
-  <div style="flex: 1; text-align: right; min-width: 250px;">
-    <img src="https://static.vecteezy.com/system/resources/previews/012/744/791/non_2x/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg" alt="coding girl" width="280" />
-  </div>
-
 </div>
 
 ---
 
-### 💻 Languages and Tools:
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
