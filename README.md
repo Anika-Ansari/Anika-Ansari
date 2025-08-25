@@ -27,7 +27,7 @@
   </div>
 
   <!-- Right side image -->
-  <div style="flex: 1; text-align: center; min-width: 250px;">
+  <div style="flex: 1; text-align: right; min-width: 250px;">
     <img src="https://static.vecteezy.com/system/resources/previews/012/744/791/non_2x/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg" alt="coding girl" width="280" />
   </div>
 
