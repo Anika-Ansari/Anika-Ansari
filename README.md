@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Anika Ansari</h1>
 <h3 align="center">🚀 Aspiring MERN Stack Developer passionate about building scalable web applications</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=500&lines=A+Passionate+Frontend+Developer;MERN+Stack+Developer;Aspiring+Full+Stack+Web+Developer;Love+to+Build+Projects+%F0%9F%9A%80" />
-</p>
 
----
+<img align ="right"  alt ="coding" width = "400"  src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fgirl-programmer&psig=AOvVaw02yc1OO8g_ECb01Z5tRc3E&ust=1756236710590000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjIkd3Zpo8DFQAAAAAdAAAAABAJ">
 
-<!-- Social + Image side by side -->
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin: 30px 0;">
 
-  <!-- Left side social -->
-  <div style="flex: 1; min-width: 250px;">
-    <h3>🌐 Connect with me</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anika-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="anika-ansari" /> </p>
+
+- 🔭 Full Stack Web Developer (MERN) | Creating Modern, Fast & User-Friendly Websites
+
+- 📫 How to reach me **anikajameel786@gmail.com**
+ - 📫 view my portfolio https://my-personal-portfolio-eight-gamma.vercel.app/
+
+
+
+<h3 align="left w-100px"🌐>Connect with me:</h3>
     <p>
       <a href="https://www.linkedin.com/in/anika-ansari-202560313/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
