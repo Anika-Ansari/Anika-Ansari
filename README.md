@@ -12,7 +12,7 @@
  - 📫 view my portfolio https://my-personal-portfolio-eight-gamma.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/anika-ansari-202560313/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anika ansari" height="30" width="40" />
