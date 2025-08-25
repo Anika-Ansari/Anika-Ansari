@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anika Ansari</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">🚀 Aspiring MERN Stack Developer passionate about building scalable web applications</h3>
 
 <img align ="right"  alt ="coding" width = "400"  src ="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
 
@@ -9,7 +9,7 @@
 - 🔭 Full Stack Web Developer (MERN) | Creating Modern, Fast & User-Friendly Websites
 
 - 📫 How to reach me **anikajameel786@gmail.com**
--  - 📫 view my portfolio https://my-personal-portfolio-eight-gamma.vercel.app/
+ - 📫 view my portfolio https://my-personal-portfolio-eight-gamma.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
