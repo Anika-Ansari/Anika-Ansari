@@ -2,7 +2,7 @@
 <h3> 🚀 Aspiring MERN Stack Developer passionate about building scalable web applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=500&lines=A+Passionate+Frontend+Developer;Learning+MERN+Stack;Aspiring+Full+Stack+Web+Developer;Love+to+Build+Projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=500&lines=A+Passionate+Frontend+Developer;MERN+Stack+Developer;Aspiring+Full+Stack+Web+Developer;Love+to+Build+Projects+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -10,23 +10,23 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <h3>🌐 Connect with me</h3>
+      <td width="60%" valign="top">
+        <h3 align="center">🌐 Connect with me</h3>
         <p align="center">
           <a href="https://www.linkedin.com/in/anika-ansari-202560313/" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
           </a>
-          <a href="https://www.facebook.com/yourusername" target="blank">
+          <a href="" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
           </a>
-          <a href="https://www.instagram.com/yourusername" target="blank">
+          <a href="https://www.instagram.com/anikaansari35/" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
           </a>
         </p>
       </td>
-      <td>
-        <!-- Right Side Image -->
-        <img src="https://raw.githubusercontent.com/Anika-Ansari/Anika-Ansari/main/profile.png" alt="profile image" width="250" />
+      <td width="40%" align="center" valign="middle">
+        <!-- Right Side Coding Girl Image -->
+        <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="coding girl" width="280" />
       </td>
     </tr>
   </table>
