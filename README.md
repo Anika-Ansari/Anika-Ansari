@@ -13,7 +13,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anika-ansari-202560313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anika ansari" height="30" width="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/anika-ansari-202560313/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anika ansari" height="30" width="40" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/yourusername" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anika ansari facebook" height="30" width="40" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/anikaansari35/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anika ansari instagram" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
